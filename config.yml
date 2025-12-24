@@ -6,29 +6,30 @@ defaultContentLanguageInSubdir: true
 hasCJKLanguage: true
 
 languages:
+
+  en:
+    languageName: English
+    weight: 3
+    contentDir: "content/en"
+    title: "Toushobun's Engineering Blog"
+    params:
+      author: Toushobun
+
   zh:
     languageName: 中文
-    languageCode: zh-CN
     weight: 1
+    contentDir: "content/zh"
     title: 邓淞文的工程博客
     params:
       author: 邓淞文
 
   ja:
     languageName: 日本語
-    languageCode: ja-JP
     weight: 2
+    contentDir: "content/ja"
     title: 鄧淞文のエンジニアブログ
     params:
       author: 鄧 淞文
-
-  en:
-    languageName: English
-    languageCode: en-US
-    weight: 3
-    title: "Toushobun's Engineering Blog"
-    params:
-      author: Toushobun
 
 params:
   ShowReadingTime: true
