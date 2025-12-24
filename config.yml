@@ -1,5 +1,6 @@
 baseURL: "https://toushobun.github.io/"
 theme: "PaperMod"
+publishDir: "docs"
 
 defaultContentLanguage: zh
 defaultContentLanguageInSubdir: true
