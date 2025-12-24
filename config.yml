@@ -38,3 +38,4 @@ languages:
 params:
   ShowReadingTime: true
   ShowCodeCopyButtons: true
+  disablePathToLower: true
