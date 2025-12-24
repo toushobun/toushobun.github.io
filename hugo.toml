@@ -1,9 +1,9 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "Xiaobu's Engineering Notes"
+title = "Toushobun's Engineering Notes"
 theme = "PaperMod"
 
 [params]
-  author = "Xiaobu"
+  author = "Toushobun"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
