@@ -1,5 +1,6 @@
 baseURL: "https://toushobun.github.io/"
 theme: "PaperMod"
+publishDir: "docs"
 
 defaultContentLanguage: zh  # 设置默认语言为中文
 defaultContentLanguageInSubdir: true  # 启用子目录中的默认语言
@@ -33,3 +34,6 @@ languages:
 params:
   ShowReadingTime: true
   ShowCodeCopyButtons: true
+  assets:
+    disableThemeJs: false  # 让 JS 功能生效
+    disableThemeCSS: false # 让 CSS 生效
