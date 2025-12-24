@@ -10,7 +10,6 @@ defaultContentLanguageInSubdir: true  # 启用子目录中的默认语言
 hasCJKLanguage: true  # 启用对中日韩语言的优化支持
 
 languages:
-
   en:
     languageName: English
     weight: 3
