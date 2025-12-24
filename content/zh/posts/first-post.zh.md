@@ -13,7 +13,7 @@ draft: false
 
 hugo
 git add .
-git commit -m "feat: new content"
+git commit -m "fix: update"
 git push
 
 ```

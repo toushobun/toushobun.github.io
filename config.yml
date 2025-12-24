@@ -1,4 +1,4 @@
-baseURL: "https://toushobun.github.io/zh"
+baseURL: "https://toushobun.github.io/"
 theme: "PaperMod"
 publishDir: "docs"
 

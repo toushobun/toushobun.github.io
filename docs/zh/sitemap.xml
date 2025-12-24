@@ -2,92 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://toushobun.github.io/zh/zh/posts/</loc>
+    <loc>https://toushobun.github.io/zh/posts/</loc>
     <lastmod>2025-12-24T14:44:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://toushobun.github.io/zh/ja/posts/"
+                href="https://toushobun.github.io/ja/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://toushobun.github.io/zh/en/posts/"
+                href="https://toushobun.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://toushobun.github.io/zh/zh/posts/"
+                href="https://toushobun.github.io/zh/posts/"
                 />
   </url><url>
-    <loc>https://toushobun.github.io/zh/zh/</loc>
+    <loc>https://toushobun.github.io/zh/</loc>
     <lastmod>2025-12-24T14:44:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://toushobun.github.io/zh/ja/"
+                href="https://toushobun.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://toushobun.github.io/zh/en/"
+                href="https://toushobun.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://toushobun.github.io/zh/zh/"
+                href="https://toushobun.github.io/zh/"
                 />
   </url><url>
-    <loc>https://toushobun.github.io/zh/zh/posts/first-post/</loc>
+    <loc>https://toushobun.github.io/zh/posts/first-post/</loc>
     <lastmod>2025-12-24T14:44:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://toushobun.github.io/zh/ja/posts/first-post/"
+                href="https://toushobun.github.io/ja/posts/first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://toushobun.github.io/zh/en/posts/first-post/"
+                href="https://toushobun.github.io/en/posts/first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://toushobun.github.io/zh/zh/posts/first-post/"
+                href="https://toushobun.github.io/zh/posts/first-post/"
                 />
   </url><url>
-    <loc>https://toushobun.github.io/zh/zh/categories/</loc>
+    <loc>https://toushobun.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://toushobun.github.io/zh/ja/categories/"
+                href="https://toushobun.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://toushobun.github.io/zh/en/categories/"
+                href="https://toushobun.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://toushobun.github.io/zh/zh/categories/"
+                href="https://toushobun.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://toushobun.github.io/zh/zh/tags/</loc>
+    <loc>https://toushobun.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://toushobun.github.io/zh/ja/tags/"
+                href="https://toushobun.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://toushobun.github.io/zh/en/tags/"
+                href="https://toushobun.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://toushobun.github.io/zh/zh/tags/"
+                href="https://toushobun.github.io/zh/tags/"
                 />
   </url>
 </urlset>
