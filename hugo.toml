@@ -1,0 +1,9 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Xiaobu's Engineering Notes"
+theme = "PaperMod"
+
+[params]
+  author = "Xiaobu"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
