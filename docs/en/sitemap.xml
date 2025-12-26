@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://toushobun.github.io/en/hello/</loc>
+    <loc>https://toushobun.github.io/en/posts/hello/</loc>
     <lastmod>2025-12-24T14:44:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://toushobun.github.io/zh/hello/"
+                href="https://toushobun.github.io/zh/posts/hello/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://toushobun.github.io/ja/hello/"
+                href="https://toushobun.github.io/ja/posts/hello/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://toushobun.github.io/en/hello/"
+                href="https://toushobun.github.io/en/posts/hello/"
+                />
+  </url><url>
+    <loc>https://toushobun.github.io/en/posts/</loc>
+    <lastmod>2025-12-24T14:44:12+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://toushobun.github.io/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://toushobun.github.io/ja/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://toushobun.github.io/en/posts/"
                 />
   </url><url>
     <loc>https://toushobun.github.io/en/</loc>
