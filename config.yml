@@ -2,6 +2,9 @@ baseURL: "https://toushobun.github.io/"
 theme: "PaperMod"
 publishDir: "docs"
 
+relativeURLs: false
+canonifyURLs: true
+
 defaultContentLanguage: zh  # 设置默认语言为中文
 defaultContentLanguageInSubdir: true  # 启用子目录中的默认语言
 hasCJKLanguage: true  # 启用对中日韩语言的优化支持
