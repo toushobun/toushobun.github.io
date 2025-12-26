@@ -35,3 +35,6 @@ params:
   ShowReadingTime: true
   ShowCodeCopyButtons: true
   ShowShareButtons: true
+  assets:
+    disableThemeJs: false  # 让 JS 功能生效
+    disableThemeCSS: false # 让 CSS 生效
