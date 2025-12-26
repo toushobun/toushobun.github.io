@@ -38,3 +38,11 @@ params:
   ShowReadingTime: true
   ShowCodeCopyButtons: true
   ShowShareButtons: true
+  # profileMode:
+  #   enabled: true
+  #   title: "邓淞文"
+  #   subtitle: "Golang / React 全栈工程师"
+  #   imageUrl: "/pic/avatar.png"
+  #   imageTitle: "avatar"
+  #   imageWidth: 60
+  #   imageHeight: 60
