@@ -2,6 +2,35 @@ baseURL: "https://toushobun.github.io/"
 theme: "PaperMod"
 publishDir: "docs"
 
+defaultContentLanguage: zh  # 设置默认语言为中文
+defaultContentLanguageInSubdir: true  # 启用子目录中的默认语言
+hasCJKLanguage: true  # 启用对中日韩语言的优化支持
+
+languages:
+  zh:
+    languageName: 中文
+    weight: 1
+    contentDir: "content/zh"
+    title: 邓淞文的工程博客
+    params:
+      author: 邓淞文
+
+  ja:
+    languageName: 日本語
+    weight: 2
+    contentDir: "content/ja"
+    title: 鄧淞文のエンジニアブログ
+    params:
+      author: 鄧 淞文
+
+  en:
+    languageName: English
+    weight: 3
+    contentDir: "content/en"
+    title: "Toushobun's Engineering Blog"
+    params:
+      author: Toushobun
+
 params:
   ShowReadingTime: true
   ShowCodeCopyButtons: true
