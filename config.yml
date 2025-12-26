@@ -1,48 +1,42 @@
 baseURL: "https://toushobun.github.io/"
-theme: "PaperMod"
+theme: "stack"
 publishDir: "docs"
 
-relativeURLs: false
-canonifyURLs: true
-
-defaultContentLanguage: zh  # 设置默认语言为中文
-defaultContentLanguageInSubdir: true  # 启用子目录中的默认语言
-hasCJKLanguage: true  # 启用对中日韩语言的优化支持
+defaultContentLanguage: zh
+defaultContentLanguageInSubdir: true
 
 languages:
   zh:
     languageName: 中文
+    languageCode: zh-CN
     weight: 1
-    contentDir: "content/zh"
     title: 邓淞文的工程博客
-    params:
-      author: 邓淞文
 
   ja:
     languageName: 日本語
+    languageCode: ja-JP
     weight: 2
-    contentDir: "content/ja"
     title: 鄧淞文のエンジニアブログ
-    params:
-      author: 鄧 淞文
 
   en:
     languageName: English
+    languageCode: en-US
     weight: 3
-    contentDir: "content/en"
     title: "Toushobun's Engineering Blog"
-    params:
-      author: Toushobun
 
 params:
-  ShowReadingTime: true
-  ShowCodeCopyButtons: true
-  ShowShareButtons: true
-  # profileMode:
-  #   enabled: true
-  #   title: "邓淞文"
-  #   subtitle: "Golang / React 全栈工程师"
-  #   imageUrl: "/pic/avatar.png"
-  #   imageTitle: "avatar"
-  #   imageWidth: 60
-  #   imageHeight: 60
+  author:
+    name: 邓淞文
+    email: toushobun@gmail.com
+    link: https://toushobun.github.io/
+
+  sidebar:
+    emoji: "🧑‍💻"
+    subtitle: "Go / React / Engineering in Japan"
+
+  article:
+    toc: true
+    readingTime: true
+
+  footer:
+    since: 2025
