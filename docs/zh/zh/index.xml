@@ -6,13 +6,11 @@
         <description>Recent content in Zhs on 邓淞文的工程博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <managingEditor>toushobun@gmail.com (邓淞文)</managingEditor>
-        <webMaster>toushobun@gmail.com (邓淞文)</webMaster>
         <lastBuildDate>Wed, 24 Dec 2025 14:44:12 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/zh/zh/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>我的工程之旅启程</title>
         <link>https://toushobun.github.io/zh/zh/hello/</link>
         <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
-        <author>toushobun@gmail.com (邓淞文)</author>
+        
         <guid>https://toushobun.github.io/zh/zh/hello/</guid>
         <description>&lt;p&gt;创建此博客是为了记录我在Web和SaaS工程领域的长期旅程，
 重点关注性能优化、自动化和系统设计。&lt;/p&gt;

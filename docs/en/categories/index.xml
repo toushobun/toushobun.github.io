@@ -5,8 +5,6 @@
         <link>https://toushobun.github.io/en/categories/</link>
         <description>Recent content in Categories on Toushobun&#39;s Engineering Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-US</language>
-        <managingEditor>toushobun@gmail.com (邓淞文)</managingEditor>
-        <webMaster>toushobun@gmail.com (邓淞文)</webMaster><atom:link href="https://toushobun.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-US</language><atom:link href="https://toushobun.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

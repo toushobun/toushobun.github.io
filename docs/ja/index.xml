@@ -5,8 +5,6 @@
         <link>https://toushobun.github.io/ja/</link>
         <description>Recent content on 鄧淞文のエンジニアブログ</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja-JP</language>
-        <managingEditor>toushobun@gmail.com (邓淞文)</managingEditor>
-        <webMaster>toushobun@gmail.com (邓淞文)</webMaster><atom:link href="https://toushobun.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+        <language>ja-JP</language><atom:link href="https://toushobun.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

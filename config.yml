@@ -27,16 +27,16 @@ languages:
 params:
   author:
     name: 邓淞文
-    email: toushobun@gmail.com
-    link: https://toushobun.github.io/
+    # email: toushobun@gmail.com
+    # link: https://toushobun.github.io/
 
   sidebar:
     emoji: "🧑‍💻"
     subtitle: "Go / React / Engineering in Japan"
 
-  article:
-    toc: true
-    readingTime: true
+  # article:
+    # toc: true
+    # readingTime: true
 
   footer:
     since: 2025
