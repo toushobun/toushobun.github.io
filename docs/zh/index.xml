@@ -6,41 +6,28 @@
         <description>Recent content on 邓淞文的工程博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Wed, 24 Dec 2025 14:44:12 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/zh/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My Engineering Journey Begins</title>
-        <link>https://toushobun.github.io/zh/en/hello/</link>
-        <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
+        <lastBuildDate>Tue, 06 Jan 2026 15:42:08 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/zh/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>常用指令</title>
+        <link>https://toushobun.github.io/zh/commands/</link>
+        <pubDate>Tue, 06 Jan 2026 15:42:08 +0900</pubDate>
         
-        <guid>https://toushobun.github.io/zh/en/hello/</guid>
-        <description>&lt;p&gt;This blog is created to document my long-term journey in Web and SaaS engineering,
-focusing on performance optimization, automation, and system design.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>私のエンジニアリングの旅が始まる</title>
-        <link>https://toushobun.github.io/zh/ja/hello/</link>
-        <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
-        
-        <guid>https://toushobun.github.io/zh/ja/hello/</guid>
-        <description>&lt;p&gt;このブログは、WebとSaaSエンジニアリングにおける私の長期的な旅を記録するために作成されました。
-主にパフォーマンス最適化、自動化、システム設計に焦点を当てています。&lt;/p&gt;
-</description>
+        <guid>https://toushobun.github.io/zh/commands/</guid>
+        <description>&lt;h2 id=&#34;个人用的常用指令&#34;&gt;个人用的常用指令：
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;fix: update&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
         </item>
         <item>
         <title>我的工程之旅启程</title>
-        <link>https://toushobun.github.io/zh/zh/hello/</link>
+        <link>https://toushobun.github.io/zh/hello/</link>
         <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
         
-        <guid>https://toushobun.github.io/zh/zh/hello/</guid>
+        <guid>https://toushobun.github.io/zh/hello/</guid>
         <description>&lt;p&gt;创建此博客是为了记录我在Web和SaaS工程领域的长期旅程，
 重点关注性能优化、自动化和系统设计。&lt;/p&gt;
-&lt;p&gt;个人用的常用指令：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git add .
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fix: update&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git push
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+</description>
         </item>
         
     </channel>

@@ -5,6 +5,30 @@
         <link>https://toushobun.github.io/ja/</link>
         <description>Recent content on 鄧淞文のエンジニアブログ</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja-JP</language><atom:link href="https://toushobun.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+        <language>ja-JP</language>
+        <lastBuildDate>Tue, 06 Jan 2026 15:42:08 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/ja/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>よく使うコマンド</title>
+        <link>https://toushobun.github.io/ja/commands/</link>
+        <pubDate>Tue, 06 Jan 2026 15:42:08 +0900</pubDate>
+        
+        <guid>https://toushobun.github.io/ja/commands/</guid>
+        <description>&lt;h2 id=&#34;個人用のよく使うコマンド&#34;&gt;個人用のよく使うコマンド：
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;fix: update&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>私のエンジニアリングの旅が始まる</title>
+        <link>https://toushobun.github.io/ja/hello/</link>
+        <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
+        
+        <guid>https://toushobun.github.io/ja/hello/</guid>
+        <description>&lt;p&gt;このブログは、WebとSaaSエンジニアリングにおける私の長期的な旅を記録するために作成されました。
+主にパフォーマンス最適化、自動化、システム設計に焦点を当てています。&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Default on 邓淞文的工程博客</title>
+        <link>https://toushobun.github.io/zh/categories/default/</link>
+        <description>Recent content in Default on 邓淞文的工程博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language>
+        <lastBuildDate>Tue, 06 Jan 2026 15:42:08 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/zh/categories/default/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>常用指令</title>
+        <link>https://toushobun.github.io/zh/commands/</link>
+        <pubDate>Tue, 06 Jan 2026 15:42:08 +0900</pubDate>
+        
+        <guid>https://toushobun.github.io/zh/commands/</guid>
+        <description>&lt;h2 id=&#34;个人用的常用指令&#34;&gt;个人用的常用指令：
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;fix: update&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>我的工程之旅启程</title>
+        <link>https://toushobun.github.io/zh/hello/</link>
+        <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
+        
+        <guid>https://toushobun.github.io/zh/hello/</guid>
+        <description>&lt;p&gt;创建此博客是为了记录我在Web和SaaS工程领域的长期旅程，
+重点关注性能优化、自动化和系统设计。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
