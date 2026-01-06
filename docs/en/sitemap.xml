@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://toushobun.github.io/en/</loc>
+    <lastmod>2026-01-06T16:37:58+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://toushobun.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://toushobun.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://toushobun.github.io/en/"
+                />
+  </url><url>
+    <loc>https://toushobun.github.io/en/page/archives/</loc>
+    <lastmod>2026-01-06T16:37:58+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://toushobun.github.io/zh/page/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://toushobun.github.io/ja/page/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://toushobun.github.io/en/page/archives/"
+                />
+  </url><url>
+    <loc>https://toushobun.github.io/en/page/</loc>
+    <lastmod>2026-01-06T16:37:58+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://toushobun.github.io/zh/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://toushobun.github.io/ja/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://toushobun.github.io/en/page/"
+                />
+  </url><url>
     <loc>https://toushobun.github.io/en/categories/</loc>
     <lastmod>2026-01-06T15:42:08+09:00</lastmod>
     <xhtml:link
@@ -20,22 +74,22 @@
                 href="https://toushobun.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://toushobun.github.io/en/commands/</loc>
+    <loc>https://toushobun.github.io/en/post/commands/</loc>
     <lastmod>2026-01-06T15:42:08+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://toushobun.github.io/zh/commands/"
+                href="https://toushobun.github.io/zh/post/commands/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://toushobun.github.io/ja/commands/"
+                href="https://toushobun.github.io/ja/post/commands/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://toushobun.github.io/en/commands/"
+                href="https://toushobun.github.io/en/post/commands/"
                 />
   </url><url>
     <loc>https://toushobun.github.io/en/categories/default/</loc>
@@ -56,43 +110,62 @@
                 href="https://toushobun.github.io/en/categories/default/"
                 />
   </url><url>
-    <loc>https://toushobun.github.io/en/</loc>
+    <loc>https://toushobun.github.io/en/post/</loc>
     <lastmod>2026-01-06T15:42:08+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://toushobun.github.io/zh/"
+                href="https://toushobun.github.io/zh/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://toushobun.github.io/ja/"
+                href="https://toushobun.github.io/ja/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://toushobun.github.io/en/"
+                href="https://toushobun.github.io/en/post/"
                 />
   </url><url>
-    <loc>https://toushobun.github.io/en/hello/</loc>
+    <loc>https://toushobun.github.io/en/tags/default/</loc>
     <lastmod>2025-12-24T14:44:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://toushobun.github.io/zh/hello/"
+                href="https://toushobun.github.io/zh/tags/default/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://toushobun.github.io/ja/hello/"
+                href="https://toushobun.github.io/ja/tags/default/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://toushobun.github.io/en/hello/"
+                href="https://toushobun.github.io/en/tags/default/"
+                />
+  </url><url>
+    <loc>https://toushobun.github.io/en/post/hello/</loc>
+    <lastmod>2025-12-24T14:44:12+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://toushobun.github.io/zh/post/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://toushobun.github.io/ja/post/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://toushobun.github.io/en/post/hello/"
                 />
   </url><url>
     <loc>https://toushobun.github.io/en/tags/</loc>
+    <lastmod>2025-12-24T14:44:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -107,6 +180,40 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://toushobun.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://toushobun.github.io/en/page/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://toushobun.github.io/zh/page/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://toushobun.github.io/ja/page/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://toushobun.github.io/en/page/links/"
+                />
+  </url><url>
+    <loc>https://toushobun.github.io/en/page/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://toushobun.github.io/zh/page/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://toushobun.github.io/ja/page/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://toushobun.github.io/en/page/search/"
                 />
   </url>
 </urlset>

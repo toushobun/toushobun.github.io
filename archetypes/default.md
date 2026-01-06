@@ -1,8 +1,7 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-description: '{{ replace .File.ContentBaseName "-" " " | title }} description'
-date: '{{ .Date }}'
-draft: false
-categories: ['default']
-tag: [default]
+title: "{{ replace .File.ContentBaseName "-" " " | title }}"
+description: "{{ replace .File.ContentBaseName "-" " " | title }} description"
+date: "{{ .Date }}"
+categories: ["default"]
+tag: ["default"]
 ---

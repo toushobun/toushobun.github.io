@@ -87,12 +87,6 @@ disqusShortname: toushobun
 
 ## 其他参数配置
 params:
-  mainSections:
-    - ""
-
-  search:
-    enabled: true
-
   article:
     toc: true
 
