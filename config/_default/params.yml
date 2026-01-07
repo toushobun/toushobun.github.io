@@ -1,0 +1,204 @@
+# 指定哪些 section 的内容会显示在首页和归档页
+# 这里表示只展示 content/post 下的文章
+mainSections:
+  - post
+
+# RSS 是否输出文章的完整内容（true = 全文，false = 摘要）
+rssFullContent: true
+
+# 站点 favicon 路径（相对站点根目录）
+favicon: images/avatar.png
+
+# 页脚相关配置
+footer:
+  # 站点起始年份（通常显示为 © 2025–2026 之类）
+  since: 2025
+  # 页脚自定义文本（留空则只显示默认内容）
+  customText: ""
+
+# 日期显示格式配置
+dateFormat:
+  # 文章发布时间显示格式（Go 时间格式）
+  published: "2006年01月02日 15:04 MST"
+  # 文章最后更新时间显示格式
+  lastUpdated: "2006年01月02日 15:04:05 MST"
+
+# 文章页面相关配置
+article:
+  # 是否在标题旁显示锚点链接（#）
+  headingAnchor: false
+  # 是否启用数学公式（KaTeX / MathJax）
+  math: false
+  # 是否显示阅读时间
+  readingTime: true
+  # 文章版权声明配置
+  license:
+    # 是否显示版权信息
+    enabled: true
+    # 默认版权声明文本
+    default: "Licensed under CC BY-NC-SA 4.0"
+
+# 小组件（Widgets）配置
+widgets:
+  # 首页显示的组件列表（从上到下顺序）
+  homepage:
+    # 搜索框组件
+    - type: search
+    # 归档列表组件
+    - type: archives
+      params:
+        # 显示的条目数量
+        limit: 5
+    # 分类列表组件
+    - type: categories
+      params:
+        # 显示的分类数量
+        limit: 10
+    # 标签云组件
+    - type: tag-cloud
+      params:
+        # 显示的标签数量
+        limit: 10
+  # 普通页面使用的组件
+  page:
+    # 文章目录（Table of Contents）
+    - type: toc
+
+# 暂时没搞懂
+# # Open Graph（社交分享）配置
+# opengraph:
+#   twitter:
+#     # Twitter 账号（@username，可留空）
+#     site: ""
+#     # 分享卡片类型（大图卡片）
+#     card: summary_large_image
+
+# # 默认分享图片配置
+# defaultImage:
+#   opengraph:
+#     # 是否启用默认 OG 图片（预览封面图）
+#     enabled: false
+#     # 是否使用本地图片
+#     local: false
+#     # 默认图片路径
+#     src: ""
+
+# 颜色主题配置
+colorScheme:
+  # 是否允许用户切换明暗主题
+  toggle: true
+  # 默认主题（light / dark / auto）
+  default: auto
+
+# 图片处理相关配置
+imageProcessing:
+  # 封面图处理
+  cover:
+    # 是否启用封面图处理（压缩 / 裁剪）
+    enabled: true
+  # 正文图片处理
+  content:
+    # 是否启用正文图片处理
+    enabled: true
+
+# 评论系统总配置
+comments:
+  # 是否启用评论功能
+  enabled: true
+  # 默认使用的评论系统
+  provider: disqus
+
+  # DisqusJS 配置
+  disqusjs:
+    shortname: ""
+    apiUrl: ""
+    apiKey: ""
+    admin: ""
+    adminLabel: ""
+
+  ## 以下为各评论系统的具体配置选项，暂时用不到可以留空
+  # utterances（基于 GitHub Issues）
+  utterances:
+    # GitHub 仓库名
+    repo: ""
+    # Issue 关联方式（pathname / url / title 等）
+    issueTerm: pathname
+    # Issue 标签
+    label: ""
+
+  # Remark42 评论系统
+  remark42:
+    host: ""
+    site: ""
+    locale: ""
+
+  # Vssue 评论系统
+  vssue:
+    platform: ""
+    owner: ""
+    repo: ""
+    clientId: ""
+    clientSecret: ""
+    autoCreateIssue: false
+
+  # Waline 评论系统
+  waline:
+    serverURL: ""
+    lang: ""
+    visitor: ""
+    avatar: ""
+    # 表情包地址列表
+    emoji:
+      - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+    # 必填的用户信息字段
+    requiredMeta:
+      - name
+      - email
+      - url
+    # 评论框占位文本
+    placeholder: ""
+    # 本地化配置
+    locale:
+      admin: Admin
+
+  # Twikoo 评论系统
+  twikoo:
+    envId: ""
+    region: ""
+    path: ""
+    lang: ""
+
+  # Cactus.chat 评论系统（Matrix）
+  cactus:
+    # 默认 Matrix homeserver
+    defaultHomeserverUrl: https://matrix.cactus.chat:8448
+    serverName: cactus.chat
+    siteName: ""
+
+  # Giscus（GitHub Discussions）
+  giscus:
+    repo: ""
+    repoID: ""
+    category: ""
+    categoryID: ""
+    mapping: ""
+    lightTheme: ""
+    darkTheme: ""
+    # 是否启用表情反应
+    reactionsEnabled: 1
+    # 是否向 GitHub 发送页面元数据
+    emitMetadata: 0
+
+  # Gitalk 评论系统
+  gitalk:
+    owner: ""
+    admin: ""
+    repo: ""
+    clientID: ""
+    clientSecret: ""
+
+  # Cusdis 评论系统
+  cusdis:
+    host: ""
+    id: ""
+

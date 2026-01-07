@@ -182,21 +182,21 @@
                 href="https://toushobun.github.io/ja/post/hello/"
                 />
   </url><url>
-    <loc>https://toushobun.github.io/ja/page/links/</loc>
+    <loc>https://toushobun.github.io/ja/page/draft_links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://toushobun.github.io/zh/page/links/"
+                href="https://toushobun.github.io/zh/page/draft_links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://toushobun.github.io/en/page/links/"
+                href="https://toushobun.github.io/en/page/draft_links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://toushobun.github.io/ja/page/links/"
+                href="https://toushobun.github.io/ja/page/draft_links/"
                 />
   </url><url>
     <loc>https://toushobun.github.io/ja/page/search/</loc>

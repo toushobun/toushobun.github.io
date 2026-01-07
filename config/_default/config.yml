@@ -1,0 +1,12 @@
+# 基础设置
+baseURL: https://toushobun.github.io/
+theme: stack
+publishDir: docs
+
+# 评论系统配置
+disqusShortname: toushobun
+
+# 多语言设置
+translationKey: links
+defaultContentLanguage: zh
+defaultContentLanguageInSubdir: true

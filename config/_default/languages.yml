@@ -1,0 +1,44 @@
+zh:
+  languageName: 中文
+  languageCode: zh-CN
+  weight: 1
+  title: 邓淞文的工程博客
+  contentDir: content/zh
+  params:
+    sidebar:
+      emoji: "🧑‍💻"
+      avatar:
+        enabled: true
+        local: true
+        src: images/avatar.png
+      subtitle: "Go / React / 日本工程实践"
+
+ja:
+  languageName: 日本語
+  languageCode: ja-JP
+  weight: 2
+  title: 鄧淞文のエンジニアブログ
+  contentDir: content/ja
+  params:
+    sidebar:
+      emoji: "🧑‍💻"
+      avatar:
+        enabled: true
+        local: true
+        src: images/avatar.png
+      subtitle: "Go / React / 日本でのエンジニアリング"
+
+en:
+  languageName: English
+  languageCode: en-US
+  weight: 3
+  title: "Toushobun's Engineering Blog"
+  contentDir: content/en
+  params:
+    sidebar:
+      emoji: "🧑‍💻"
+      avatar:
+        enabled: true
+        local: true
+        src: images/avatar.png
+      subtitle: "Go / React / Engineering in Japan"

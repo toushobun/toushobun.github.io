@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Default on 鄧淞文のエンジニアブログ</title>
+        <link>http://localhost:1313/ja/tags/default/</link>
+        <description>Recent content in Default on 鄧淞文のエンジニアブログ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-JP</language>
+        <lastBuildDate>Wed, 24 Dec 2025 14:44:12 +0900</lastBuildDate><atom:link href="http://localhost:1313/ja/tags/default/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>私のエンジニアリングの旅が始まる</title>
+        <link>http://localhost:1313/ja/post/hello/</link>
+        <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
+        
+        <guid>http://localhost:1313/ja/post/hello/</guid>
+        <description>&lt;p&gt;このブログは、WebとSaaSエンジニアリングにおける私の長期的な旅を記録するために作成されました。
+主にパフォーマンス最適化、自動化、システム設計に焦点を当てています。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
