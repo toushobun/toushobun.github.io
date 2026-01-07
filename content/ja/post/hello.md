@@ -2,8 +2,8 @@
 title: "私のエンジニアリングの旅が始まる"
 description: "Golang から SaaS までのエンジニアリング実践記録"
 date: "2025-12-24T14:44:12+09:00"
-categories: ["default"]
-tags: ["default"]
+categories: ["始める"]
+tags: ["始める"]
 ---
 
 このブログは、WebとSaaSエンジニアリングにおける私の長期的な旅を記録するために作成されました。

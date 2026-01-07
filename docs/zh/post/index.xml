@@ -6,30 +6,7 @@
         <description>Recent content in Posts on 邓淞文的工程博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Tue, 06 Jan 2026 15:42:08 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>常用指令</title>
-        <link>https://toushobun.github.io/zh/post/commands/</link>
-        <pubDate>Tue, 06 Jan 2026 15:42:08 +0900</pubDate>
-        
-        <guid>https://toushobun.github.io/zh/post/commands/</guid>
-        <description>&lt;h2 id=&#34;个人用的常用指令&#34;&gt;个人用的常用指令：
-&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;fix: draft links&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 24 Dec 2025 14:44:12 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>我的工程之旅启程</title>
         <link>https://toushobun.github.io/zh/post/hello/</link>
         <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>

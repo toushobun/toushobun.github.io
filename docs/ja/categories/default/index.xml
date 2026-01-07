@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Default on 鄧淞文のエンジニアブログ</title>
-        <link>https://toushobun.github.io/ja/categories/default/</link>
+        <link>http://localhost:1313/ja/categories/default/</link>
         <description>Recent content in Default on 鄧淞文のエンジニアブログ</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-JP</language>
-        <lastBuildDate>Tue, 06 Jan 2026 15:42:08 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/ja/categories/default/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 06 Jan 2026 15:42:08 +0900</lastBuildDate><atom:link href="http://localhost:1313/ja/categories/default/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>よく使うコマンド</title>
-        <link>https://toushobun.github.io/ja/post/commands/</link>
+        <link>http://localhost:1313/ja/post/commands/</link>
         <pubDate>Tue, 06 Jan 2026 15:42:08 +0900</pubDate>
         
-        <guid>https://toushobun.github.io/ja/post/commands/</guid>
+        <guid>http://localhost:1313/ja/post/commands/</guid>
         <description>&lt;h2 id=&#34;個人用のよく使うコマンド&#34;&gt;個人用のよく使うコマンド：
 &lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -31,10 +31,10 @@
         </item>
         <item>
         <title>私のエンジニアリングの旅が始まる</title>
-        <link>https://toushobun.github.io/ja/post/hello/</link>
+        <link>http://localhost:1313/ja/post/hello/</link>
         <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
         
-        <guid>https://toushobun.github.io/ja/post/hello/</guid>
+        <guid>http://localhost:1313/ja/post/hello/</guid>
         <description>&lt;p&gt;このブログは、WebとSaaSエンジニアリングにおける私の長期的な旅を記録するために作成されました。
 主にパフォーマンス最適化、自動化、システム設計に焦点を当てています。&lt;/p&gt;
 </description>

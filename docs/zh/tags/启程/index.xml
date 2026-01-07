@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>启程 on 邓淞文的工程博客</title>
+        <link>https://toushobun.github.io/zh/tags/%E5%90%AF%E7%A8%8B/</link>
+        <description>Recent content in 启程 on 邓淞文的工程博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language>
+        <lastBuildDate>Wed, 24 Dec 2025 14:44:12 +0900</lastBuildDate><atom:link href="https://toushobun.github.io/zh/tags/%E5%90%AF%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我的工程之旅启程</title>
+        <link>https://toushobun.github.io/zh/post/hello/</link>
+        <pubDate>Wed, 24 Dec 2025 14:44:12 +0900</pubDate>
+        
+        <guid>https://toushobun.github.io/zh/post/hello/</guid>
+        <description>&lt;p&gt;创建此博客是为了记录我在Web和SaaS工程领域的长期旅程，
+重点关注性能优化、自动化和系统设计。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

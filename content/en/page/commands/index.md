@@ -2,8 +2,11 @@
 title: "Common Commands"
 description: "A record of commands frequently used"
 date: "2026-01-06T15:42:08+09:00"
-categories: ["default"]
-tag: ["default"]
+menu:
+    main:
+        weight: 2
+        params: 
+            icon: archives
 ---
 
 ## Commonly used personal commands:
