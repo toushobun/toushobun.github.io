@@ -10,6 +10,6 @@ tag: ["default"]
 ```shell
 hugo
 git add .
-git commit -m "fix: update"
+git commit -m "fix: draft links"
 git push
 ```

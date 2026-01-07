@@ -10,8 +10,8 @@ menu:
         weight: 4
         params:
             icon: link
-
 comments: false
+draft: true
 ---
 
 この機能を使用するには、frontmatter に links セクションを追加してください。
